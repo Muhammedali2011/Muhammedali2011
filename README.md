@@ -1,4 +1,4 @@
-👋 Hi, I'm Muhammadali2011. 💻
+👋 Hi, I'm Muhammadali. 💻
 🔧 I'm passionate about System Administration, Help Desk support, and DevSecOps.
 🌱 Currently learning Linux, Bash scripting, and cloud technologies.
 💞️ Looking to collaborate on IT infrastructure, automation, and cybersecurity projects.
